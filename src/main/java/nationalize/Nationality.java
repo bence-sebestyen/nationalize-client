@@ -15,7 +15,6 @@ public class Nationality {
 
     @lombok.Data
     public static class Country {
-
         private String countryId;
         private float probability;
     }
